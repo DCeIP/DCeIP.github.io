@@ -1,2 +1,2 @@
 # DCeIP.github.io
-Site
+Site para demonstração sobre oque aborda nosssos projetos.
